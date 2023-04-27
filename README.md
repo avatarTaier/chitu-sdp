@@ -24,7 +24,7 @@
 
 ## 产品简介
 ### 概述
-[赤兔实时计算平台](http://chitu.galaxy-data.cn/)是跨越集团大数据生态体系的重要基石，具备开箱即用、一站式开发、亚秒级延时、统一 SQL 语言、端到端一致性、丰富的上下游支持、安全稳定等特点的企业级实时大数据计算平台。 赤兔平台提供 SQL 化的 IDE 开发环境，UI 化的任务发布及任务监控体系，支持多环境隔离及环境切换，可帮助企业快速实现实时应用开发与落地，加速企业面向实时数字化的建设进程。
+[赤兔实时计算平台](https://galaxy-data-cn.github.io/chitu-sdp-website)是星河大数据生态体系的重要基石，具备开箱即用、一站式开发、亚秒级延时、统一 SQL 语言、端到端一致性、丰富的上下游支持、安全稳定等特点的企业级实时大数据计算平台。 赤兔平台提供 SQL 化的 IDE 开发环境，UI 化的任务发布及任务监控体系，支持多环境隔离及环境切换，可帮助企业快速实现实时应用开发与落地，加速企业面向实时数字化的建设进程。
 
 ### 特性
 - 作业全生命周期可视化管理
@@ -49,16 +49,16 @@
 
 ## 快速开始
 
-* [Flink SQL 作业快速入门](http://chitu.galaxy-data.cn/pages/58ae2f/)
-* [Flink DS 作业快速入门](http://chitu.galaxy-data.cn/pages/317f67/)
+* [Flink SQL 作业快速入门](https://galaxy-data-cn.github.io/chitu-sdp-website/pages/58ae2f/)
+* [Flink DS 作业快速入门](https://galaxy-data-cn.github.io/chitu-sdp-website/pages/317f67/)
 
 ## 环境搭建部署
 
-* [开发环境搭建](http://chitu.galaxy-data.cn/pages/e5dc37/)
+* [开发环境搭建](https://galaxy-data-cn.github.io/chitu-sdp-website/pages/e5dc37/)
 
-* [源码构建部署](http://chitu.galaxy-data.cn/pages/f70b05/)
+* [源码构建部署](https://galaxy-data-cn.github.io/chitu-sdp-website/pages/f70b05/)
 
-* [Docker 部署](http://chitu.galaxy-data.cn/pages/3afb01/)
+* [Docker 部署](https://galaxy-data-cn.github.io/chitu-sdp-website/pages/3afb01/)
 
 ## 获取帮助
 如果您在使用过程中有任何疑问或对建议，欢迎提交 [GitHub Issue](https://github.com/galaxy-data-cn/chitu-sdp/issues/new) 或加入社区与我们进一步交流沟通。

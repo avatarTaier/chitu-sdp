@@ -97,4 +97,4 @@
 
 ## License
 
-Please refer to the [LICENSE](https://github.com/galaxy-data-cn/chitu-sdp/blob/master/LICENSE) document.
+Please refer to the [Apache License 2.0 LICENSE](https://github.com/galaxy-data-cn/chitu-sdp/blob/master/LICENSE) document.

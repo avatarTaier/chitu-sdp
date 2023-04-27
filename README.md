@@ -90,7 +90,7 @@
 - 唐安律 (Vice Chair), lvvhebe#gmail.com  
 - 刘斌 (Vice Chair), sunnykaka0721#gmail.com
 
-## 引用的部分开源项目
+## 引用的部分开源项目，在此表示感谢
 
 -   Flink SQL校验和提交：[Apache StreamPark](https://github.com/apache/incubator-streampark)、[Dinky](https://github.com/DataLinkDC/dinky)
 

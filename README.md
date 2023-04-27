@@ -1,4 +1,4 @@
-## 开源的社区朋友们大家好：
+## 开源社区的朋友们大家好：
 
 收到 Apache StreamPark 社区反馈，赤兔实时计算平台使用到了部分 Apache StreamPark 和 Dinky 源代码，
 
@@ -14,9 +14,7 @@
 <img src="docs/md/image/项目名logo.png"  width="30%" syt height="30%"  div align=center />
 </p>
 <p align="center">
-    <a href="http://chitu.galaxy-data.cn/">产品官网</a> | 
-    <a href="http://chitu.galaxy-data.cn/demo/">体验环境</a> | 
-    <a href="http://chitu.galaxy-data.cn/">视频介绍</a>
+    <a href="https://galaxy-data-cn.github.io/chitu-sdp-website/">产品官网</a>
 </p>
 
 
@@ -92,10 +90,11 @@
 - 唐安律 (Vice Chair), lvvhebe#gmail.com  
 - 刘斌 (Vice Chair), sunnykaka0721#gmail.com
 
+## 引用的部分开源项目，在此表示感谢
+
+-   Flink SQL校验和提交：[Apache StreamPark](https://github.com/apache/incubator-streampark)、[Dinky](https://github.com/DataLinkDC/dinky)
+
+
 ## License
 
-Licensed under The GNU General Public License version 3 (GPLv3)  (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
-
-<https://www.gnu.org/licenses/gpl-3.0.html>
-
-Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+Please refer to the [Apache License 2.0 LICENSE](https://github.com/galaxy-data-cn/chitu-sdp/blob/master/LICENSE) document.

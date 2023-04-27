@@ -90,10 +90,11 @@
 - 唐安律 (Vice Chair), lvvhebe#gmail.com  
 - 刘斌 (Vice Chair), sunnykaka0721#gmail.com
 
+## 引用的部分开源项目
+
+-   Flink SQL校验和提交：[Apache StreamPark](https://github.com/apache/incubator-streampark)、[Dinky](https://github.com/DataLinkDC/dinky)
+
+
 ## License
 
-Licensed under The GNU General Public License version 3 (GPLv3)  (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
-
-<https://www.gnu.org/licenses/gpl-3.0.html>
-
-Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+Please refer to the [LICENSE](https://github.com/galaxy-data-cn/chitu-sdp/blob/master/LICENSE) document.

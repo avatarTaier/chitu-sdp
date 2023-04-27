@@ -14,9 +14,8 @@
 <img src="docs/md/image/项目名logo.png"  width="30%" syt height="30%"  div align=center />
 </p>
 <p align="center">
-    <a href="http://chitu.galaxy-data.cn/">产品官网</a> | 
-    <a href="http://chitu.galaxy-data.cn/demo/">体验环境</a> | 
-    <a href="http://chitu.galaxy-data.cn/">视频介绍</a>
+    <a href="https://galaxy-data-cn.github.io/chitu-sdp-website/">产品官网</a> | 
+    <a href="http://chitu.galaxy-data.cn/demo/">体验环境</a> 
 </p>
 
 
